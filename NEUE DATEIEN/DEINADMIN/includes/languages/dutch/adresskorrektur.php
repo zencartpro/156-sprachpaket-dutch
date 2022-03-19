@@ -1,0 +1,23 @@
+<?php
+define('HEADING_TITLE', 'Change address details of an order');
+define('HEADING_TITLE_SEARCH', 'Order Nummer:');
+define('HEADING_TITLE_STATUS', 'Status:');
+define('TABLE_HEADING_CUSTOMERS', 'Klant');
+define('ENTRY_CUSTOMER', 'Customer Adres:');
+define('ENTRY_CUSTOMER_NAME', 'Naam');
+define('ENTRY_CUSTOMER_COMPANY', 'Bedrijf');
+define('ENTRY_CUSTOMER_ADDRESS', 'Straat');
+define('ENTRY_CUSTOMER_SUBURB', 'Straat regel 2');
+define('ENTRY_CUSTOMER_CITY', 'Stad');
+define('ENTRY_CUSTOMER_STATE', 'Provincie');
+define('ENTRY_CUSTOMER_POSTCODE', 'Postcode');
+define('ENTRY_CUSTOMER_COUNTRY', 'Land');
+define('ENTRY_SHIPPING_ADDRESS', 'Afleveradres:');
+define('ENTRY_BILLING_ADDRESS', 'Factuuradres:');
+define('ERROR_ORDER_DOES_NOT_EXIST', 'FOUT: Order bestaat niet.');
+define('SUCCESS_ORDER_UPDATED', 'SUCCES: De adres details van deze order zijn correct gecorrigeerd.');
+define('WARNING_ORDER_NOT_UPDATED', 'WAARSCHUWING: Niets gewijzigd, order details zijn niet gewijzigd.');
+define('IMAGE_ORDER_DETAILS', 'Order details');
+define('BUTTON_TO_LIST', 'Sorteerlijst');
+define('SELECT_ORDER_LIST', 'Ga naar order:');
+define('IMAGE_ADRESSKORREKTUR', 'Adres Correctie'); 

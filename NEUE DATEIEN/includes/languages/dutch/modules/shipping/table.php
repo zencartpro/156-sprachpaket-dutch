@@ -1,0 +1,7 @@
+<?php
+define('MODULE_SHIPPING_TABLE_TEXT_TITLE', 'Tabel Tarief');
+define('MODULE_SHIPPING_TABLE_TEXT_DESCRIPTION', 'Tabel Tarief');
+define('MODULE_SHIPPING_TABLE_TEXT_WAY', 'Beste manier');
+define('MODULE_SHIPPING_TABLE_TEXT_WEIGHT', 'Gewicht');
+define('MODULE_SHIPPING_TABLE_TEXT_AMOUNT', 'Bedrag');
+?>
